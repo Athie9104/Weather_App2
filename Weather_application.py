@@ -50,7 +50,7 @@ if __name__ == "__main__":
     root = Tk()
     root.geometry('495x180')
     root.config(bg='blue')
-    root.title('Weather app')
+    root.title('A G Weather app')
 
     Ecity = Entry(root, text='Enter city', width=40)
     Etemp = Entry(root, width=40)
